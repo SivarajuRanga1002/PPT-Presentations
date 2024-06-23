@@ -1,5 +1,7 @@
 # PPT-Presentations
 In this repo, I would like to share different presentations I have worked in my masters, my experience involves Customer Discovery, Market Research, Paper Presentation, Project Presentation and many more.....
+
+A glimpse into my perspective on presentations and the need to be subtly clear
 ![Competitive Analysis-2](https://github.com/SivarajuRanga1002/PPT-Presentations/assets/65248651/c1691c4a-ec98-4268-9d5c-c396ac8a113b)
 ![Competitive Analysis](https://github.com/SivarajuRanga1002/PPT-Presentations/assets/65248651/94b159a1-ce8c-4d62-bd7d-ea9843db86c4)
 ![Pitch-Images-2](https://github.com/SivarajuRanga1002/PPT-Presentations/assets/65248651/59210e82-5ee6-4bc3-bb2f-aed28f4274c8)
